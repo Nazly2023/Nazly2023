@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Mi nombre es: Nazly Zambrano Hendez</h1>
+<h1 align="left">Hola 👋, Mi nombre es: Nazly Zambrano Hendez</h1>
 - 🌱 Actualmente estoy aprendiendo **desarrollo frontend**
 
-- 📫 Puedes encontrarme en: **nazmi.016@gmail.com**
+- 📫 Puedes encontrarme en: ** nazmi.016@gmail.com **
 
 - ⚡ Dato curioso **Amo tejer**
 
