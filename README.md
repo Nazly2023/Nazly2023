@@ -1,5 +1,6 @@
 <h1 align="left">Hola 👋, Mi nombre es: Nazly Zambrano Hendez</h1>
-- Soy ingeniera agrícola 
+<h4>Soy ingeniera agrícola, amante de la naturaleza</h4>
+ 
 - 🌱 Actualmente estoy aprendiendo **desarrollo FrontEnd**
 
 - 📫 Puedes contactarme: ** nazmi.016@gmail.com **
