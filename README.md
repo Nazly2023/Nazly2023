@@ -1,8 +1,8 @@
 <h1 align="left">Hola 👋, Mi nombre es: Nazly Zambrano Hendez</h1>
 <h4 align="left">Soy ingeniera agrícola, amante de la naturaleza 🌱 </h4>
  
-- 🌱 Actualmente estoy aprendiendo **desarrollo FrontEnd**
-- ⚡ Preguntame sobre: HTML, css, sass, tailwind
+- 🌱 Actualmente me encuentro desarrollando proyectos en **desarrollo FrontEnd** para mejorar mi experiencia.
+- ⚡ Preguntame sobre: HTML, CSS, Sass, Tailwind
 - 📫 Puedes contactarme: ** nazmi.016@gmail.com **
 
 - ⚡ Dato curioso **Amo tejer**
